@@ -5,7 +5,7 @@ A Node dictionary application that returns definitions for queried words and all
 In order to successfully run the Lexical Amplifier, you will need to obtain API credentials from Oxford Dictionaries. To obtain your API credentials, visit https://developer.oxforddictionaries.com/?tag=#plans.
 
 ### Installation & Setup
--Download this repo
+- Download this repo
 - Obtain your Oxford Dictionaries API credentials
 - Use the ".env.example" file as a template to create your .env file containing your API credentials
 - Open a Node terminal and change the directory to the folder containing the contents of this repo
