@@ -1,0 +1,24 @@
+{
+  "name": "lexical_amplifier_node_version",
+  "version": "1.0.0",
+  "description": "A Node application that returns definitions for queried words and allows you to export the results of your searches in an Excel file.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dictionary",
+    "oxford",
+    "definitions",
+    "learning",
+    "words"
+  ],
+  "author": "Dajahi Wiley",
+  "license": "AGPL-3.0-only",
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "exceljs": "^1.6.0",
+    "oxford-dictionary": "^1.4.1",
+    "readline": "^1.3.0"
+  }
+}
